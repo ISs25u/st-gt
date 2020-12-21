@@ -2,7 +2,7 @@
 
 _pkgname=st
 pkgname=st-gt-git
-pkgver=0.8.2
+pkgver=0.8.2.r1158.07ebfaa
 pkgrel=1
 epoch=1
 pkgdesc="GT's simple (suckless) terminal with vim-bindings, transparency, xresources, etc. "
